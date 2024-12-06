@@ -1,5 +1,6 @@
 
 # Kucharek6 (ENG)
+![kucharek6](https://github.com/user-attachments/assets/8b85ae39-c71f-43e8-b79e-25b5126d75a5)
 Kucharek6 is a web application designed for sharing and discovering recipes. Users can register, log in, create their own recipes, comment on others' recipes, and interact with a vibrant community of food enthusiasts.
 
 ## Features
